@@ -14,3 +14,8 @@ dDocentHPC/
 fltrVCF/
 *uniq*seqs
 *original_attempt/
+*.out
+*.Temp*
+*.seq
+*.csv
+*NotInIndelCategory*
